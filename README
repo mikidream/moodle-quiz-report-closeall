@@ -1,0 +1,4 @@
+// by Miki Alliel
+close all quizzes.
+add closeall folder to  mod/quiz/report
+add quize_closeall.php to lang/en_utf8 o english translation  or to  moodledata/lang/he_utf8 (to hebrew translation).
