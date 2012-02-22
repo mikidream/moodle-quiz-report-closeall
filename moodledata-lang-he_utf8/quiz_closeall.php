@@ -3,8 +3,8 @@
       // local modifications from http://www.tikshuv.org.il/moodle
 
 
-$string['closeall'] = 'סגירת מבחן';
-$string['closeallquizattempts'] = 'האם לסגור מבחנים אשר הושארו פתוחים?';
-$string['closingallquizattempts'] = 'תהליך סגירת מבחנים פתוחים מתבצע כעת...';
+$string['closeall'] = 'סגירת בוחן';
+$string['closeallquizattempts'] = 'האם לסגור בחנים אשר הושארו פתוחים?';
+$string['closingallquizattempts'] = 'תהליך סגירת בחנים פתוחים מתבצע כעת...';
 
 ?>
